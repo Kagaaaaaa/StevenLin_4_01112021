@@ -780,7 +780,7 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-    background: #f37e47;
+    background: #bb4b17;
     color: #FFFFFF!important;
 }
 
@@ -841,7 +841,7 @@ li > a{
 }
 
 .black{
-    color: #000000 !important;
+    color: #000000;
 }
 
 @media (max-width: 1024px) {
