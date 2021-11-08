@@ -844,6 +844,10 @@ li > a{
     color: #000000 !important;
 }
 
+.icon-md{
+    color: rgba(255, 255, 255, .6);
+}
+
 @media (max-width: 1024px) {
     .bloc {
         padding-left: 20px;
