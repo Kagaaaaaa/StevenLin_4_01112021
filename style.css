@@ -302,6 +302,8 @@ a:hover {
 }
 
 .navbar-brand img {
+    width: 214px;
+    height: 40px;
     max-height: 200px;
     margin: 0 5px 0 0;
     display: inline;
@@ -842,6 +844,18 @@ li > a{
 
 .icon-md{
     color: rgba(255, 255, 255, .6);
+}
+
+.col-sm-12 img{
+    width: 100px;
+    height: 100px;
+}
+
+@media (max-width: 767px){
+    .center img{
+        display: block;
+        margin: auto;
+    }
 }
 
 @media (max-width: 1024px) {
